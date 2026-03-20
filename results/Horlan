@@ -1,0 +1,25 @@
+На гілці main
+Ваша гілка випереджає "origin/main" на 1 коміт.
+  (скористайтесь "git push", щоб надіслати локальні коміти)
+
+нічого комітити, робоче дерево чисте
+origin	https://github.com/Petro2806/GitKnowledgeCheck (fetch)
+origin	https://github.com/Petro2806/GitKnowledgeCheck (push)
+* ec093c4 (HEAD -> main) add file
+* 88765ec (origin/main, origin/HEAD) Update README.md
+*   c4a9faa add red
+|\  
+| * 7598f53 (origin/anna-zdravka) Update README.md
+* | aec19e6 remove
+|/  
+* da3b496 Add instruction to create a results file
+* dd277bd Fix formatting issue in README.md
+* 4c51d4f Babych.txt added
+*   0e63369 Merge branch 'main' of https://github.com/Petro2806/GitKnowledgeCheck
+|\  
+| * d1c41cb Add Shymkiv.txt in result
+| * 0a96941 change file
+* | 0adadcf added .gitignore
+|/  
+* 241a5d6 Add rules and format of check
+* 68dee68 Add init files
