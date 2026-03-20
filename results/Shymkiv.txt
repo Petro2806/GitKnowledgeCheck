@@ -1,0 +1,12 @@
+$ git status
+git remote -v
+git log --oneline --graph --decorate -n 15
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+origin  https://github.com/Petro2806/GitKnowledgeCheck (fetch)
+origin  https://github.com/Petro2806/GitKnowledgeCheck (push)
+* 0a96941 (HEAD -> main, origin/main, origin/HEAD) change file
+* 241a5d6 Add rules and format of check
+* 68dee68 Add init files
